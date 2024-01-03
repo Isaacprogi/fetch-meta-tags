@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Dependency directory
+lib/
+
+# Compiled binary addons
+build/Release/
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn
+yarn-error.log
+.pnp/
+.pnp.js
+node_modules/
+
+# Optional: Visual Studio Code
+.vscode/
